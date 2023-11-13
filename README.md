@@ -1,21 +1,13 @@
 - [](#)
   - [Consegna base](#consegna-base)
-  - [Consegna bonus](#consegna-bonus)
-  - [Svolgimento base](#svolgimento-base)
-    - [Pagina da replicare](#pagina-da-replicare)
-    - [Analisi tecnica](#analisi-tecnica)
-    - [Risultato ottenuto](#risultato-ottenuto)
 
-# 
+#
 
 ## Consegna base
 
-## Consegna bonus
+Il programma dovrà chiedere all'utente il numero di chilometri che vuole percorrere e l'età del passeggero.
+Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio, secondo queste regole:
 
-## Svolgimento base
-
-### [Pagina da replicare](./img/screenshot/exercise/)
-
-### [Analisi tecnica](./img/screenshot/analysis/)
-
-### [Risultato ottenuto](./index.html)
+- il prezzo del biglietto è definito in base ai km (0.21 € al km)
+- va applicato uno sconto del 20% per i minorenni
+- va applicato uno sconto del 40% per gli over 65.
