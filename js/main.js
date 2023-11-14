@@ -1,5 +1,5 @@
-let km = prompt("Enter distance (in km): ");
-let age = prompt("Enter your age: ");
+let km = parseInt(prompt("Enter distance (in km): "));
+let age = parseInt(prompt("Enter your age: "));
 
 if (km > 0 && age > 0 && age <= 100) {
     let output = `
